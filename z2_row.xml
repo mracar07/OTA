@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <z2_row>
-            <Filename>RR-O-v6.0.0-20180417-z2_row-Official.zip</Filename>
+            <Filename>RR-O-v6.0.0-20180429-z2_row-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Downloads"
