@@ -16,5 +16,20 @@
             	title="Gapps"
             	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
 	    </z2_row>
+        <z2_plus>	    
+            <Filename>RR-O-v6.1.0-20180611-z2_plus-Official.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Downloads"
+                description="Download latest builds">https://sourceforge.net/projects/resurrectionremix-oreo/files/z2_plus/</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/oreo/CHANGELOG.mkdn</ChangelogUrl>
+            <SlimGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+	    </z2_plus>
     </Stable>
 </SlimOTA>
